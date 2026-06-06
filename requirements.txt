@@ -3,3 +3,4 @@ uvicorn
 asyncpg
 python-dotenv
 pydantic
+aiogram
